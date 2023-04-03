@@ -1,0 +1,36 @@
+h1 {
+    background-color: aquamarine;
+}
+
+button {
+    background-color: blueviolet;
+}
+
+.b1,
+.b3 {
+    background-color: aqua;
+}
+
+.db1 {
+    background-color: rgb(165, 42, 157);
+}
+
+p {
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+p {
+    background-color: brown;
+    width: 500px;
+    height: 40px;
+    padding: 10px 5px;
+    border: 10px solid green;
+}
+
+.icon {
+    color: blue;
+    font-size: 2rem;
+}
